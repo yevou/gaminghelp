@@ -45,7 +45,7 @@
     <a href="#" class="bouton espace" onclick="afficherAccueil()">Accueil</a>
     <a href="#" class="bouton espace" onclick="afficherTexte('Bienvenue sur la page d\'installation de Steam !')">Comment installer Steam ?</a>
     <a href="#" class="bouton espace" onclick="afficherTexte('Bienvenue sur la page Steam, c\'est quoi !')">Steam, c'est quoi ?</a>
-    <a href="https://discord.gg/r3xYPgh9" class="bouton" target="_blank">La Famille</a>
+    <a href="https://discord.gg/T3Ayks6P" class="bouton" target="_blank">La Famille</a>
 
     <!-- Contenu de la page -->
     <div id="contenu">
