@@ -34,7 +34,7 @@
             document.getElementById("contenu").innerHTML = `
                 <p>Bienvenue sur GamingHelp!, ton guide ultime pour le monde des jeux vidéo.</p>
                 <p>J'ai créé ce site pour aider les gens à utiliser certains jeux vidéo.</p>
-                <p>Si tu souhaites rajouter des aides ou des vidéos de jeux, contacte-moi à l'adresse mail suivante : <a href="mailto:yevousalu18@gmail.com">yevousalu18@gmail.com</a>.</p>
+                <p>Si tu souhaites rajouter des aides ou des vidéos de jeux, n'ésite pas à me contacter à l'adresse mail suivante : <a href="mailto:yevousalu18@gmail.com">yevousalu18@gmail.com</a>.</p>
             `;
         }
     </script>
